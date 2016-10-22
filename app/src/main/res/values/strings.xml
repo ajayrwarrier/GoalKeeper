@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Goal Keeper</string>
+    <string name="team_A">Team A</string>
+    <string name="team_B">Team B</string>
+    <string name="VS">VS</string>
+    <string name="name">GOAL KEEPER</string>
+    <string name="score">0</string>
+</resources>
